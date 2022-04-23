@@ -5,7 +5,7 @@
 <pre> docker-compose up </pre>
 
 <h2>Endpoints</h2>
-**Hostname**: http://localhost:3000
+<b>Hostname</b>: http://localhost:3000
 <pre>
 / - home page,
 /cryptos - list of crypto,
